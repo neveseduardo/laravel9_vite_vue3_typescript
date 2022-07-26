@@ -74,6 +74,7 @@ module.exports = {
         'template-curly-spacing': ['error', 'never'],
         'vue/no-side-effects-in-computed-properties': 'off',
         'vue/prop-name-casing': [0],
+        'vue/require-name-property': ['error'],
         'vue/custom-event-name-casing': ['error', 'kebab-case'],
         'vue/script-indent': ['error', 4],
         'vue/multi-word-component-names': 'off',
