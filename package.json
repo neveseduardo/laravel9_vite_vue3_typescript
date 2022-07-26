@@ -6,6 +6,18 @@
         "name": "Eduardo Neves",
         "url": "https://github.com/neveseduardo"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/neveseduardo/laravel9_vite_vue3_typescript",
+    },
+    "keywords": [
+        "laravel",
+        "vue",
+        "vue3",
+        "typescript",
+        "vite",
+        "laravel9"
+    ],
     "scripts": {
         "dev": "vite",
         "prod": "vite build"
