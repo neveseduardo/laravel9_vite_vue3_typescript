@@ -14,13 +14,13 @@ composer install
 ```
 npm install
 ```
-## Environment configuration
+## Development environment configuration
 
 ```
 npm run dev
 ```
 
-## Prodution environment configuration
+## Production environment configuration
 
 ```
 npm run prod
