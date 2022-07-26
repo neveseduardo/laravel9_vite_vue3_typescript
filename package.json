@@ -1,5 +1,11 @@
 {
-    "private": true,
+    "private": false,
+    "license": "MIT",
+    "author": {
+        "email": "neveseduardoti@gmail.com",
+        "name": "Eduardo Neves",
+        "url": "https://github.com/neveseduardo"
+    },
     "scripts": {
         "dev": "vite",
         "prod": "vite build"
